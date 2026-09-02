@@ -1,4 +1,4 @@
-# Lucky Reels
+# Lucky Spins
 
 A slot machine web app built with React and Vite, converted from a Node.js CLI game tutorial.
 
